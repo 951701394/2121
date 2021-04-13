@@ -22,7 +22,7 @@ axios.interceptors.request.use(function (config) {
   });
 
 Vue.prototype.http =axios
-Vue.use(ElementUI);
+Vue.use(ElementUI);  // 安装elemenyt ui
 
 
 
